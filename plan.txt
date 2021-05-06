@@ -1,0 +1,13 @@
+Random password generator
+
+It has a field for you to enter how many random digits you need (10 is default)
+It has button that generates password and text field that displays it
+
+Text field can just displays the password
+Or if I work out a way to copy the password to the clipboard:
+	Button will copy the password, label will tell the user it has been copied.
+	The letters will be asterisks
+
+It has dot selectors that can put numbers, capitals, and punctuation into the password
+
+Just make one big list for the characters. The random number range can be used to determine which characters are included in the selection. 
